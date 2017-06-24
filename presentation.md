@@ -65,7 +65,7 @@ npm install -g @angular/cli
 # CLIを使えば、こんな感じに一瞬でプロジェクトが作れます。
 
 ```
-ng new ng-fukuoka-samplecd 
+ng new ng-fukuoka-sample
 ```
 
 ---
@@ -75,7 +75,7 @@ ng new ng-fukuoka-samplecd
 # componentも
 
 ```
-ng g component azarashi
+ng g component azarashi-image
 ```
 
 ---
@@ -157,7 +157,7 @@ main.bundle.js Failed to load resource: the server responded with a status of 40
 
 ---
 
-# [fit] 先程のようなURLの場合こんな感じにすると、おｋ
+# [fit] さっきのようなURLの場合こんな感じにすると、おｋ
 
 ```
 ng build --prod -bh /hoge/"
